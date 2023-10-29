@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.app_container {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #262a2f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+    margin: 20px auto;
+    width: 30%;
+
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-size: 1.2rem;
+    display: block;
+    font-weight: 600;
+}
+
+.qrTxt {
+    display: block;
+    width: 100%;
+
+    height: 50px;
+    border: 1px solid #575757;
+    outline: none;
+    padding: 10px;
+    margin: 10px 0 20px;
+    border-radius: 5px;
+}
+
+
+#qrImg{
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-self: center;
+    margin: 1rem auto;
+}
+
+#para{
+    font-size: 1.3rem;
+    font-weight: 500;
+    line-break: anywhere;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+.btn-primary {
+    width: 100%;
+    height: 50px;
+    background: #494eea;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba (0, 0, 0, 0.1);
+    cursor: pointer;
+    margin-bottom: 20px;
+    font-weight: 500;
+    transition: all 0.2s ease-in-out;
+}
+.btn-primary:hover{
+    background: #1a1d6d;
+}
