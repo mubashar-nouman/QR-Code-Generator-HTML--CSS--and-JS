@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/mubashar-nouman/QR-Code-Generator-HTML--CSS--and-JS/assets/87895707/dba4af77-e530-403e-87b9-c1a05b9d4fd3)
+
 
 
 # QR Code Generator
