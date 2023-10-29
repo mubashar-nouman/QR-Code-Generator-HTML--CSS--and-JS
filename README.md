@@ -1,6 +1,5 @@
-Certainly! Here's a sample README file for your QR Code Generator project:
+![Uploading image.png…]()
 
----
 
 # QR Code Generator
 
